@@ -63,7 +63,8 @@ a{
     /* background-color: var(--accent-color); */
 }
 .company-logo img{ /* company ka logo ka img */
-    width: 200px;
+
+    height:200px;
 }
 
 
@@ -224,4 +225,8 @@ color: var(--primary-text-color);
 .footer-container{
     align-items: flex-start;
     justify-content: space-between;
+}
+.logo-image{
+    height: 90px;
+    border-radius: 20px;
 }
